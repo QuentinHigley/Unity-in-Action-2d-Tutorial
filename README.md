@@ -1,2 +1,2 @@
 # Unity-in-Action-2d-Tutorial
-This tutorial starts in Chapter 5, and teaches the differences between the 2D and 3D world space. the source code was written by me but was copied from the books examples to learn how unity works, the art assets are kindly provided by the author.
+This tutorial starts in Chapter 5, and teaches the differences between the 2D and 3D world space. the Code was written by me but taken from the book to learn concepts to develop my own games in Unity, the art assets are also kindly provided by the author
